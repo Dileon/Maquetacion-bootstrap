@@ -1,0 +1,21 @@
+*¨{
+    box-sizing: border-box;
+}
+.body{
+margin: auto;
+padding: 2em;
+}
+h1{
+    color: white;
+}
+.row{
+    padding: 1rem;
+}
+.barra{
+    background-color: red;
+}
+.cajaborde{
+    border-style: solid;
+    border-color: red;
+    height: 30vh;
+}
